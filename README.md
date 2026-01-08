@@ -52,18 +52,6 @@
   </a>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center" style="margin-top: 15px;">
-  <img width="81.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohansai6669&theme=buefy&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center" style="display: flex; flex-wrap: wrap;flex-direction:column; gap: 10px; justify-content: center;">
-  <div style="flex: 2; min-width: 300px; max-width: 45%;">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohansai6669&show_icons=true&locale=en&layout=compact&theme=buefy&hide_border=true" alt="Most Used Languages" />
-     <img width=41.5%" src="https://github-readme-stats.vercel.app/api?username=rohansai6669&show_icons=true&locale=en&theme=buefy&hide_border=true&card_width=320" alt="GitHub Stats" />
-  </div>
-</div>
 
 
 
